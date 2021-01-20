@@ -61,3 +61,15 @@ The busiest time was between 3pm to 6pm for most of the active age group (30 to 
 ![Image](https://github.com/Anumala89/tableau-challenge/blob/main/Images/Usage_Age_by_hour.png)
 
 
+### Limitations and Challenges
+
+Even though with all the resources available it can still be a challenge to get an accurate outcome when working with such large data. The data itself can have some limitations which can either work in the favor of the user or against. While working on this assignment I came to realize that it is very easy to manipulate the information according to the user. 
+
+* Data Limitations
+
+One of the main limitation of the data was how the information of the rider was recorded. When I tried to create a visualization I came across various outliers like an 85 year old speeding at more than 20 miles per hour and number of 67 years old starting and ending at the same stations. It was pretty clear that people did not like sharing their personal informations.
+There is a fluctuation on the rate of speed on my line graph because of this misleading ages of the riders. Even though there is an age restriction I doubt that it is being regulated efficiently. And also some of the repairs and maintenance were also recorded as trips. 
+
+* Personal Challenge
+
+The challenge that I faced were trivial but it was challenge nonetheless. There were memory issues on my personal computer and also a slow processing unit. The free account on tableau also limited the number of rows that I could work on which took sometime for the graphs and charts to load. One other challenges for me was to figure out what information to keep for the best result possible and what to omit. 
