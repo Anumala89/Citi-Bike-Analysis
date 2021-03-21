@@ -1,4 +1,4 @@
-# tableau-challenge
+# citi-bike-analysis
 
 Visualize the phenomena found in the Citi Bike Trip History logs
 
